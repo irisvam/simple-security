@@ -13,7 +13,8 @@
 		<springframework.version>5.0.5.RELEASE</springframework.version>
 		<springsecurity.version>5.0.4.RELEASE</springsecurity.version>
 		<springdata.version>2.0.6.RELEASE</springdata.version>
-		<jackson.library>2.9.5</jackson.library>
+		<!-- <jackson.library>2.9.5</jackson.library> -->
+		<jackson.version>2.9.6</jackson.version>
 		<hibernate.version>5.2.16.Final</hibernate.version>
 		<postgresql.version>42.2.2</postgresql.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
