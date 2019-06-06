@@ -1,4 +1,6 @@
 package com.pattern.utiltest;
+
+/*
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -7,11 +9,13 @@ import java.net.URL;
 
 import org.apache.tomcat.util.codec.binary.Base64;
 import org.apache.tomcat.util.http.fileupload.IOUtils;
+*/
 
 public class JavaClientTest {
 
 	public static void main(String[] args) {
 
+		/*
 		HttpURLConnection httpConnection = null;
 		BufferedReader reader = null;
 
@@ -48,12 +52,15 @@ public class JavaClientTest {
 				httpConnection.disconnect();
 			}
 		}
+		*/
 	}
 
+	/*
 	private static String encodeUserNamePassword(String user, String password) {
 
 		String userPassword = user + ":" + password;
 
 		return new String(Base64.encodeBase64(userPassword.getBytes()));
 	}
+	*/
 }
