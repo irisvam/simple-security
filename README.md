@@ -10,3 +10,9 @@ Basic Spring REST with Security
 * Postgres 42.2.2
 * Hibernate 5.2.16.Final
 * Jackson 2.9.5
+
+### Updates
+
+* Spring Data 2.1.8.RELEASE
+* Hibernate 5.2.17.Final
+* Jackson 2.9.9
